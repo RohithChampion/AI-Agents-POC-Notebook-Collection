@@ -127,30 +127,14 @@ Utilities/
 
 ---
 
-# 👤 About Me
+👤 About Me
 
-<p align="center">
+Name: Rohith Yaravalli
+Email: yeravellula.rohit@gmail.com
 
-🎯 <b>Senior Data Engineer</b>  
-🏢 ProArch IT Solutions, Hyderabad, India  
-🧠 Working in Data Engineering & Agentic AI Systems  
-
-</p>
-
-<p align="center">
-
-<a href="mailto:yeravellula.rohit@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
-<a href="https://linkedin.com/in/rohith-yaravalli-434983199"><img src="https://img.shields.io/badge/LinkedIn-Connect-informational"></a>
-
-</p>
-
-**Name:** Rohith Yaravalli  
-**Email:** yeravellula.rohit@gmail.com  
-**Working at:** ProArch IT Solutions, Hyderabad, India  
-**Designation:** Senior Data Engineer  
-**LinkedIn:** https://linkedin.com/in/rohith-yaravalli-434983199
-
----
+Working at: ProArch IT Solutions, Hyderabad, India
+Designation: Senior Data Engineer
+LinkedIn: https://linkedin.com/in/rohith-yaravalli-434983199
 
 
 
