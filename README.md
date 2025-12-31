@@ -115,3 +115,16 @@ FineTuning/
 PromptEngineering/
 Streamlit-App/
 Utilities/
+
+---
+
+## 👤 About Me
+
+  Name Rohith Yaravalli  
+  Email yeravellula.rohit@gmail.com  
+  Working at: ProArchITSolutions, Hyderabad, India.  
+  Designation: Senior Data Engineer  
+  LinkedIn: linkedin.com/in/rohith-yaravalli-434983199
+
+---
+
