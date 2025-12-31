@@ -116,25 +116,20 @@ PromptEngineering/
 Streamlit-App/
 Utilities/
 
-RAG/
-LangChain/
-LangGraph/
-MultiAgent/
-FineTuning/
-PromptEngineering/
-Streamlit-App/
-Utilities/
+---
+
+## 👤 About Me
+
+**Name:** Rohith Yaravalli  
+**Email:** [yeravellula.rohit@gmail.com](mailto:yeravellula.rohit@gmail.com)  
+**Company:** ProArch IT Solutions, Hyderabad, India  
+**Role:** Senior Data Engineer  
+**LinkedIn:** [linkedin.com/in/rohith-yaravalli-434983199](https://linkedin.com/in/rohith-yaravalli-434983199)
 
 ---
 
-👤 About Me
+## 📝 Notes
 
-Name: Rohith Yaravalli
-Email: yeravellula.rohit@gmail.com
-
-Working at: ProArch IT Solutions, Hyderabad, India
-Designation: Senior Data Engineer
-LinkedIn: https://linkedin.com/in/rohith-yaravalli-434983199
-
+This repository represents my journey in exploring AI Agent architectures and GenAI workflows. Feel free to explore the notebooks, experiment with the code, and reach out if you have questions or want to collaborate on similar projects.
 
 
